@@ -1,3 +1,4 @@
 # SMk-demo
-first git repositry 
+first git repositry =<BR>
+
 autor=Smk 
